@@ -1,0 +1,2 @@
+echo qwertyui> output.txt
+start mpiexec -n 9 C:\Users\Dasha\source\repos\ConsoleMpiProject\ConsoleMpiProject\bin\Debug\net8.0\ConsoleMpiProject.exe 
