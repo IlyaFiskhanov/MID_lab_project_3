@@ -151,6 +151,11 @@ namespace PermutationsMPITests
             mpiEnvironment.Dispose();
         }
 
+        // Тест для проверки того, возвращает ли метод `GeneratePermutations`
+        // правильное количество перестановок для указанных символов и индексов.
+        // Сначала упорядочивает входные данные, определяя символы и индексы.
+        // Затем вызывает метод `GeneratePermutations` и проверяет, что количество
+        // возвращенных перестановок равно факториалу числа символов.
         [Fact]
         public void GeneratePermutations_ReturnsCorrectNumberOfPermutations()
         {
@@ -165,6 +170,9 @@ namespace PermutationsMPITests
             Assert.Equal(Factorial(characters.Length), permutations.Count);
         }
 
+        // Тест для проверки функциональности метода `Swap`.
+        // Устанавливает два целых числа, меняет их значения с помощью метода `Swap`
+        // и затем проверяет, что значения были изменены правильно.
         [Fact]
         public void Swap_ChangesValues()
         {
@@ -180,6 +188,10 @@ namespace PermutationsMPITests
             Assert.Equal(5, b);
         }
 
+        // Тест для метода `Swap`, чтобы убедиться, что одинаковые значения
+        // не изменяются после обмена.
+        // Устанавливает два равных целых числа, меняет их значения с помощью
+        // метода `Swap` и затем проверяет, что значения остались неизменными.
         [Fact]
         public void Swap_DoesNotChangeSameValues()
         {
@@ -195,6 +207,10 @@ namespace PermutationsMPITests
             Assert.Equal(5, b);
         }
 
+        // Тест использует внешний файл пакетной обработки для запуска программы, 
+        // ожидания 5 секунд и затем чтения выходного файла для проверки количества перестановок.
+        // Запускает внешний процесс с помощью `System.Diagnostics.Process.Start`, ждет
+        // 5 секунд, читает выходной файл и затем проверяет количество перестановок.
         [Fact]
         public void GeneratePermutations_from_8_chars()
         {
@@ -205,6 +221,10 @@ namespace PermutationsMPITests
 
         }
 
+        // Тест проверяет, что метод `GeneratePermutations` возвращает одну перестановку
+        // при передаче одного символа.
+        // Устанавливает один символ, вызывает метод `GeneratePermutations` и проверяет, 
+        //что возвращается только одна перестановка.
         [Fact]
         public void GeneratePermutations_ReturnsSinglePermutationForSingleCharacter()
         {
