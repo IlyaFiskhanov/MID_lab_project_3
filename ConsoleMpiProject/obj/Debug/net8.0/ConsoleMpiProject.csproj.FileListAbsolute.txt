@@ -1,0 +1,17 @@
+C:\Users\Andrey\source\repos\ConsoleMpiProject\ConsoleMpiProject\bin\Debug\net8.0\ConsoleMpiProject.exe
+C:\Users\Andrey\source\repos\ConsoleMpiProject\ConsoleMpiProject\bin\Debug\net8.0\ConsoleMpiProject.deps.json
+C:\Users\Andrey\source\repos\ConsoleMpiProject\ConsoleMpiProject\bin\Debug\net8.0\ConsoleMpiProject.runtimeconfig.json
+C:\Users\Andrey\source\repos\ConsoleMpiProject\ConsoleMpiProject\bin\Debug\net8.0\ConsoleMpiProject.dll
+C:\Users\Andrey\source\repos\ConsoleMpiProject\ConsoleMpiProject\bin\Debug\net8.0\ConsoleMpiProject.pdb
+C:\Users\Andrey\source\repos\ConsoleMpiProject\ConsoleMpiProject\bin\Debug\net8.0\MPI.dll
+C:\Users\Andrey\source\repos\ConsoleMpiProject\ConsoleMpiProject\obj\Debug\net8.0\ConsoleMpiProject.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\ConsoleMpiProject\ConsoleMpiProject\obj\Debug\net8.0\ConsoleMpiProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\ConsoleMpiProject\ConsoleMpiProject\obj\Debug\net8.0\ConsoleMpiProject.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\ConsoleMpiProject\ConsoleMpiProject\obj\Debug\net8.0\ConsoleMpiProject.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\ConsoleMpiProject\ConsoleMpiProject\obj\Debug\net8.0\ConsoleMpiProject.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\ConsoleMpiProject\ConsoleMpiProject\obj\Debug\net8.0\ConsoleMpiProject.csproj.CopyComplete
+C:\Users\Andrey\source\repos\ConsoleMpiProject\ConsoleMpiProject\obj\Debug\net8.0\ConsoleMpiProject.dll
+C:\Users\Andrey\source\repos\ConsoleMpiProject\ConsoleMpiProject\obj\Debug\net8.0\refint\ConsoleMpiProject.dll
+C:\Users\Andrey\source\repos\ConsoleMpiProject\ConsoleMpiProject\obj\Debug\net8.0\ConsoleMpiProject.pdb
+C:\Users\Andrey\source\repos\ConsoleMpiProject\ConsoleMpiProject\obj\Debug\net8.0\ConsoleMpiProject.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\ConsoleMpiProject\ConsoleMpiProject\obj\Debug\net8.0\ref\ConsoleMpiProject.dll
